@@ -18,6 +18,19 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+## Setup
+
+---
+
+NEXT_PUBLIC_HASURA_ADMIN_URL=<REPLACE THIS>
+JWT_SECRET=<REPLACE THIS>
+NEXT_PUBLIC_HASURA_ADMIN_SECRET=<REPLACE THIS>
+MAGIC_SERVER_KEY=<REPLACE THIS>
+NEXT_PUBLIC_MAGIC_PUBLISHABLE_API_KEY=<REPLACE THIS>
+YOUTUBE_API_KEY=<REPLACE THIS>
+
+---
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
